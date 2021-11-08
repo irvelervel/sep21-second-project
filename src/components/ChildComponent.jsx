@@ -10,6 +10,7 @@
 //      backgroundColor: 'blu'
 // }
 
+// this is a FUNCTIONAL COMPONENT
 const ChildComponent = (props) => (
     <div>
         <h1 style={{ color: props.color }}>{props.title}</h1>
